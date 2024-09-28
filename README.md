@@ -5,5 +5,5 @@ Open two treminal
 - b.node app.js
 
 2nd terminal:
- a.npm install -g http-server
- b.http-server . -o
+- a.npm install -g http-server
+- b.http-server . -o
